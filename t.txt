@@ -1,0 +1,16 @@
+Программа, которая парсит данные со страницы сайта магистратуры ГУАПа 
+по нужным направлениям. Программа выводит полученные данные в таблицу Excel.
+Выводятся данные только о студентах, подавших оригинал документов и с приоритетом 1.
+Также добавляется строка студента через указание СНИЛСа (для тех кто не ценит свои 
+личные данные). Спасибо ГУАПу за то, что развиваете мои скилы, если бы вы написали 
+нормальный сайт с фильтрацией и сортировкой не пришлось бы мучить питона для 
+сооружения такого костыля.
+
+Eng (auto)
+A program that parses data from the GUAPa Master's Degree website page
+in the right directions. The program outputs the received data to an Excel spreadsheet.
+Data is displayed only on students who submitted the original documents and with priority 1.
+The student's line is also added by specifying the SNILS (for those who do not value their
+personal data). Thanks to SUAI for developing my skills, if you had written
+a normal website with filtering and sorting, you would not have to torment python to
+build such a crutch.
